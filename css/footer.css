@@ -1,0 +1,55 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 216px 230px;
+  background: #151414;
+}
+
+footer > .content > h1 {
+  color: #F8F8F8;
+  font-size: 45px;
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+
+footer p {
+  color: white;
+  max-width: 485px;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 24px;
+}
+
+footer img {
+  padding-right: 15px;
+}
+
+footer h2 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+footer input[type="email"] {
+  width: 325px;
+  height: 64px;
+  border-radius: 8px;
+  border: 1px solid #fff;
+  background: transparent;
+  padding-left: 13px;
+  color: #f3f3f3;
+  outline: none;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+footer button {
+  border-radius: 8px;
+  margin: 18px 0;
+  padding: 20px 36px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  background: #005FAC;
+}

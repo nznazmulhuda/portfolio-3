@@ -1,0 +1,48 @@
+header {
+  width: 100%;
+  background-image: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  align-items: center;
+}
+
+header .container {
+  padding: 216px 230px;
+}
+
+header h1 {
+  font-size: 65px;
+  color: #fff;
+  text-align: right;
+  font-weight: 700;
+  max-width: 525px;
+  margin-bottom: 15px;
+}
+
+header p {
+  margin-top: 10px;
+  padding-right: -10px;
+  max-width: 494px;
+  text-align: right;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+header button {
+  margin-top: 30px;
+  width: 160px;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #fff;
+  color: #005FAC;
+  font-size: 20px;
+  font-weight: 600;
+  border: none;
+  padding: 21px 25px 20px 26px;
+}
